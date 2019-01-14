@@ -1,4 +1,4 @@
-# Docker for Data Science 
+# Building a Dash Web App with Docker
 
 Generate a docker container which builds a webapp using Dash (a python API that is built on top of Plotly.js, React, and Flask).
 
